@@ -1,0 +1,1 @@
+![CI](https://github.com/elenamasukova-hub/ajs-homework-jest-task2/actions/workflows/ci.yml/badge.svg)
